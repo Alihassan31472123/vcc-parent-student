@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "867060630707",
+    "project_id": "virtualclassconnect",
+    "storage_bucket": "virtualclassconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867060630707:android:6d61bda814283e77fc5cc6",
+        "android_client_info": {
+          "package_name": "com.example.vcc_staff_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzL9GDbSivXIhRdkUHajH6BibPtBvyx_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867060630707:android:6f7c50ba7711fb40fc5cc6",
+        "android_client_info": {
+          "package_name": "com.example.vcc_student_parent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzL9GDbSivXIhRdkUHajH6BibPtBvyx_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867060630707:android:3a641be87a6f48ebfc5cc6",
+        "android_client_info": {
+          "package_name": "com.virtualclassconnect.vcc_student_parent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzL9GDbSivXIhRdkUHajH6BibPtBvyx_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
